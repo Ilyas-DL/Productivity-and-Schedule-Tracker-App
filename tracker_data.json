@@ -1,0 +1,52 @@
+{
+    "todos": [
+        {
+            "title": "task 1",
+            "type": "study",
+            "color": "#22C55E",
+            "done": false
+        },
+        {
+            "title": "task 2",
+            "type": "job",
+            "color": "#E11D48",
+            "done": false
+        },
+        {
+            "title": "task 3",
+            "type": "friends",
+            "color": "#EAB308",
+            "done": false
+        }
+    ],
+    "events": [
+        {
+            "title": "event 1",
+            "date": "11-09-2026",
+            "time": "12:00",
+            "reminded": false,
+            "color": "#8B5CF6"
+        },
+        {
+            "title": "event 2",
+            "date": "19-09-2026",
+            "time": "13:00",
+            "reminded": false,
+            "color": "#10B981"
+        },
+        {
+            "title": "event 3",
+            "date": "19-09-2026",
+            "time": "14:00",
+            "reminded": false,
+            "color": "#22C55E"
+        },
+        {
+            "title": "event 4",
+            "date": "29-09-2026",
+            "time": "8:00",
+            "reminded": false,
+            "color": "#EAB308"
+        }
+    ]
+}
