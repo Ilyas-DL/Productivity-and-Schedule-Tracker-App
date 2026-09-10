@@ -28,3 +28,14 @@ All data is stored locally in a generated `tracker_data.json` file within the ap
 ## Implementation Methodology and AI Assistance
 
 Python script generated with Gemini-pro 3.1. All code manually verfied in usage, all features and visual layout designed by me. 
+
+## Repository Structure
+
+```text
+.
+├── screenshots/        # Application screenshots
+├── LICENCE             # License information
+├── README.md           # Project documentation
+├── app.py              # Main application code
+└── tracker_data.json   # Local data storage file
+```
