@@ -3,16 +3,16 @@
 
 A lightweight, modern desktop application built with Python and Tkinter for managing daily tasks and scheduling events. 
 
+![first image](screenshots/todo_image.png)
+
+![second image](screenshots/calendar_image.png)
+
 ## Features
 * **To-Do List:** Create, color-code, complete, and drag-and-drop tasks.
 * **Calendar Dashboard:** Visual monthly calendar with day/event highlighting.
 * **Event Management:** Schedule events with dates, times, and custom colors.
 * **Smart Reminders:** Automatic pop-up alerts for next-day events.
 * **Modern UI:** Clean, flat-design interface with a curated color palette.
-
-## Prerequisites
-* **Python 3.x**
-* `tkinter` (included in the Python standard library; no external libraries required)
 
 ## Usage
 1. Clone or download this repository.
