@@ -25,7 +25,6 @@ A desktop application built with Python and Tkinter for managing daily tasks and
    ```bash
    python app.py
    ```
-   *(Note: Replace `app.py` with the actual name of your Python file).*
 
 ## Data Storage
 All data is stored locally in a generated `tracker_data.json` file within the application directory. No internet connection, cloud syncing, or database setup is currently required.
